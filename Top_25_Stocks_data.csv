@@ -1,26 +1,26 @@
-Name,Ticker,Index constituents by weight,Sector,Rank per weight,Market Capitalization,Market capital,Rank per Market capital,,
-Apple ,AAPL,6.99%,Information Technology,1,2.261T,2261000000000,1,,
-Microsoft ,MSFT,5.63%,Information Technology,2,1.829T,1829000000000,2,,
-Alphabet Class A ,GOOGL,1.93%,Communication Services,5,1.203T,1203000000000,3,,
-Alphabet Class C ,GOOG,1.71%,Communication Services,6,1.203T,1203000000000,4,,
-Amazon ,AMZN,3.32%,Consumer Discretionary,3,908.865B,908865000000,5,,
-Berkshire Hathaway Class B ,BRK.B,1.59%,Financials,7,675.245B,675245000000,6,,
-Tesla ,TSLA,1.96%,Consumer Discretionary,4,565.396B,565396000000,7,,
-UnitedHealth Group ,UNH,1.54%,Health Care,8,503.801B,503801000000,8,,
-Johnson & Johnson ,JNJ,1.39%,Health Care,9,459.469B,459469000000,9,,
-Visa Class A ,V,0.98%,Information Technology,13,430.274B,430274000000,10,,
-Exxon Mobil ,XOM,1.36%,Energy,10,426.408B,426408000000,11,,
-NVIDIA ,NVDA,0.96%,Information Technology,15,418.225B,418225000000,12,,
-JPMorgan Chase ,JPM,1.01%,Financials,11,387.652B,387652000000,13,,
-Procter & Gamble ,PG,0.97%,Consumer Staples,14,357.635B,357635000000,14,,
-Eli Lilly ,LLY,0.84%,Health Care,18,356.342B,356342000000,15,,
-Mastercard Inc. Class A ,MA,0.82%,Information Technology,19,335.386B,335386000000,16,,
-Home Depot ,HD,0.96%,Consumer Discretionary,16,326.629B,326629000000,17,,
-Chevron Corporation ,CVX,0.93%,Energy,17,324.851B,324851000000,18,,
-Meta ,META,1.01%,Communication Services,12,307.329B,307329000000,19,,
-Pfizer ,PFE,0.77%,Health Care,21,290.321B,290321000000,20,,
-AbbVie Inc. ,ABBV,0.81%,Health Care,20,288.368B,288368000000,21,,
-Merck ,MRK,0.76%,Health Care,22,275.8B,275800000000,22,,
-Coca-Cola Company ,KO,0.70%,Consumer Staples,25,273.05B,273050000000,23,,
-Bank of America ,BAC,0.71%,Financials,24,259.766B,259766000000,24,,
-PepsiCo ,PEP,0.73%,Consumer Staples,23,252.259B,252259000000,25,,
+Name,Ticker,Index constituents by weight,Sector,Rank per weight,Market Capitalization,Market capital,Rank per Market capital
+Apple ,AAPL,6.99%,Information Technology,1,2.261T,2261000000000,1
+Microsoft ,MSFT,5.63%,Information Technology,2,1.829T,1829000000000,2
+Alphabet Class A ,GOOGL,1.93%,Communication Services,5,1.203T,1203000000000,3
+Alphabet Class C ,GOOG,1.71%,Communication Services,6,1.203T,1203000000000,4
+Amazon ,AMZN,3.32%,Consumer Discretionary,3,908.865B,908865000000,5
+Berkshire Hathaway Class B ,BRK.B,1.59%,Financials,7,675.245B,675245000000,6
+Tesla ,TSLA,1.96%,Consumer Discretionary,4,565.396B,565396000000,7
+UnitedHealth Group ,UNH,1.54%,Health Care,8,503.801B,503801000000,8
+Johnson & Johnson ,JNJ,1.39%,Health Care,9,459.469B,459469000000,9
+Visa Class A ,V,0.98%,Information Technology,13,430.274B,430274000000,10
+Exxon Mobil ,XOM,1.36%,Energy,10,426.408B,426408000000,11
+NVIDIA ,NVDA,0.96%,Information Technology,15,418.225B,418225000000,12
+JPMorgan Chase ,JPM,1.01%,Financials,11,387.652B,387652000000,13
+Procter & Gamble ,PG,0.97%,Consumer Staples,14,357.635B,357635000000,14
+Eli Lilly ,LLY,0.84%,Health Care,18,356.342B,356342000000,15
+Mastercard Inc. Class A ,MA,0.82%,Information Technology,19,335.386B,335386000000,16
+Home Depot ,HD,0.96%,Consumer Discretionary,16,326.629B,326629000000,17
+Chevron Corporation ,CVX,0.93%,Energy,17,324.851B,324851000000,18
+Meta ,META,1.01%,Communication Services,12,307.329B,307329000000,19
+Pfizer ,PFE,0.77%,Health Care,21,290.321B,290321000000,20
+AbbVie Inc. ,ABBV,0.81%,Health Care,20,288.368B,288368000000,21
+Merck ,MRK,0.76%,Health Care,22,275.8B,275800000000,22
+Coca-Cola Company ,KO,0.70%,Consumer Staples,25,273.05B,273050000000,23
+Bank of America ,BAC,0.71%,Financials,24,259.766B,259766000000,24
+PepsiCo ,PEP,0.73%,Consumer Staples,23,252.259B,252259000000,25
